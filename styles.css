@@ -11,9 +11,9 @@
 }
 
 .mdl-layout__title {
-  font-size: 14px;
+  font-size: 18px;
   text-align: center;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .is-compact .mdl-layout__title span {
