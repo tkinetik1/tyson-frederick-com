@@ -11,9 +11,9 @@
 }
 
 .mdl-layout__title {
-  font-size: 18px;
+  font-size: 20px;
   text-align: center;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 .is-compact .mdl-layout__title span {
@@ -43,7 +43,7 @@
 }
 
 .portfolio-navigation-row {
-  background-color: rgba(0, 0, 0, 0.08);
+  background-color: rgba(255, 255, 255, 0.8);
   text-transform: uppercase;
   height: 45px;
 }
@@ -62,7 +62,7 @@
 }
 
 .portfolio-header .mdl-layout__drawer-button {
-    background-color: rgba(255, 255, 255, 0.44);
+    background-color: rgba(255, 255, 255, 0.98);
 }
 
 .portfolio-navigation-row .is-active {
