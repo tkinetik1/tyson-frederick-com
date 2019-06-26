@@ -87,6 +87,11 @@
   padding-bottom: 0;
 }
 
+.mdl-card__title-text {
+  opacity: 90;
+  font-weight: 400;
+}
+
 .portfolio-blog-card-full-bg {
   background: url(images/example-blog03.jpg) center / cover;
 }
